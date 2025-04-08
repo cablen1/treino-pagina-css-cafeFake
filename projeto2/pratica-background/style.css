@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 100%;
+}
+
+.container-topo{
+    text-align: center;
+    background-color: rgb(200, 52, 52);
+    padding: 6px;
+    color: beige;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: rgb(219, 58, 58);
+}
+
+.container-img {
+    width: 50%;
+    height: 65vh;
+    margin: 0 auto;
+    background-image: url('https://d2yghbees9788u.cloudfront.net/foodconnection/2024/05/experiencia-cliente-cafeteria.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.rodape {
+    width: 50%;
+    margin: 25px auto;
+    padding: 12px;
+    text-align: center;
+    border: 1px solid rgb(244, 115, 115);
+    border-radius: 17px;
+}
